@@ -39,7 +39,7 @@ const INSTAGRAM_DM_URL = 'https://ig.me/m/weblegacyycl';
 const CONTACT_EMAIL = 'weblegacyy@gmail.com';
 const BOMBASTIK_COVER_SRC = '/images/caratula_mr_bombastik.png';
 const ORIENT_COVER_SRC = '/images/caratula_orient_core.png';
-const BANQUETAZO_COVER_SRC = '/assets/aistudio/Recibidos__4__-_weblegacyy_gmail.com_-_Gmail_-_Google_Chrome_28_10_2026_12_19_59_168db6e7.png';
+const BANQUETAZO_COVER_SRC = '/images/caratula_el_banquetazo.png';
 
 export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
