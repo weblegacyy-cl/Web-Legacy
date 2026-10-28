@@ -493,7 +493,7 @@ export default function App() {
                   Banquetería Mr. Bombastik
                 </h3>
                 <p className="text-xs sm:text-sm text-neutral-300 leading-relaxed mb-6">
-                  Sitio web con cotizador gastronómico diseñado para empresa de banquetería, matrimonios, asados campestres y eventos corporativos en Chile. Incluye cotizador interactivo de menús, catálogo de platos y cotización rápida.
+                  Sitio web y cotizador para coctelería profesional y alta banquetería en Santiago. Producción completa para matrimonios, graduaciones y eventos con barra libre, amplificación, iluminación y DJ en vivo.
                 </p>
 
                 {/* Carátula oficial de la web */}
@@ -513,19 +513,19 @@ export default function App() {
                 <ul className="space-y-2.5 text-xs text-neutral-300 mb-6">
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>Cotizador interactivo con precios:</strong> Asados campestres, menús de matrimonio y coctelería calculados en vivo.</span>
+                    <span><strong>Cotizador interactivo de eventos:</strong> Presupuesto en vivo para matrimonios, graduaciones y eventos con desglose de servicios.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>Galería de imágenes gourmet:</strong> Fotografías de platos preparados y montajes de eventos.</span>
+                    <span><strong>Packs y producción completa:</strong> Banquetería de primer nivel, barra libre, amplificación, iluminación y DJ en vivo.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>Historia y Quiénes Somos:</strong> Presentación formal de la trayectoria del equipo gastronómico.</span>
+                    <span><strong>Catálogo de Recintos y Estándar:</strong> Opciones de recintos seleccionados o montaje en el propio espacio del cliente.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-                    <span><strong>Botón directo de cotización:</strong> Conexión inmediata a WhatsApp con mensaje preparado.</span>
+                    <span><strong>Recomendaciones y contacto directo:</strong> Testimonios reales y botón directo para cotizar y reservar por WhatsApp.</span>
                   </li>
                 </ul>
               </div>
